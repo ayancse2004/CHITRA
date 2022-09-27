@@ -1,0 +1,16 @@
+id,name,postrole
+1,NATIONAL,राष्ट्रीय अध्यक्ष-National President
+2,NATIONAL,राष्ट्रीय प्रमुख उपाध्यक्ष-National Chief Vice President
+3,NATIONAL,राष्ट्रीय उपाध्यक्ष-national vice president 
+4,NATIONAL,राष्ट्रीय महासचिव-National secretary General 
+5,NATIONAL,राष्ट्रीय सचिव-national secretary 
+6,NATIONAL,राष्ट्रीय मीडिया सचिव/ प्रवक्ता
+7,NATIONAL,राष्ट्रीय कोषाध्यक्ष 
+8,NATIONAL,राष्ट्रीय कार्यकारिणी सदस्य 
+9,STATE,MINISTER
+10,STATE,CHEIF MINISTER
+11,NATIONAL,SPORTS MINISTER
+12,DISTRICT,KARYAKARTA
+13,STATE,STATE FINANCE MINISTER
+14,DISTRICT,PARTY LEADER
+15,LOKSABHA,PRESIDENT

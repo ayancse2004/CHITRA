@@ -1,0 +1,11 @@
+
+[database]
+#con = mysql+pymysql://user:password@localhost/database_name
+#con=postgresql+psycopg2://postgres:@localhost/adsn
+
+#con=postgresql+psycopg2://fdpleuqoxwwedw:19a8118e4b9bd63e8d54fd9bac7f2fd3fd5d9b996fbec7cf33f3314e16344574@ec2-54-225-234-165.compute-1.amazonaws.com/ddk9j9hbst548l
+
+#con=postgresql+psycopg2://postgres:bel123@192.168.0.20/MROT
+
+
+con=postgresql+psycopg2://gzfalyypqzwoif:288512b83c8db859600b174c860b288ed7d7b497fcd26dd353026d3fe1594b7d@ec2-3-208-79-113.compute-1.amazonaws.com/d2772itge7u7vu

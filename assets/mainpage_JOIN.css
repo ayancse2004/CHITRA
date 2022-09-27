@@ -1,0 +1,274 @@
+#JOIN_US:hover{
+
+  color:red;
+  text-decoration: underline;
+
+
+ 
+
+}
+#OFFICIAL:hover{
+
+  color:red;
+  text-decoration: underline;
+
+
+ 
+
+}
+#JOIN_US{
+
+  /* color:blue;
+  background:none;
+  border:none;
+  font-weight: bold;
+  position: absolute; 
+  margin-top: -21rem;
+  text-align: left; */
+
+  background:none;
+  border:none;
+  font-weight: bold;
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  text-align: center;
+  color:blue;
+  height: 30%;
+
+  /* background-image: url("/assets/mainpage/join.jpg"); */
+ 
+
+}
+#OFFICIAL{
+
+  /* color:blue;
+  background:none;
+  border:none;
+  font-weight: bold;
+  position: absolute; 
+  margin-top: -21rem;
+  text-align: left; */
+
+  background:none;
+  border:none;
+  font-weight: bold;
+  position: absolute;
+  /* top: 0; */
+  bottom: 0;
+  left: 0;
+  right: 0;
+  text-align: center;
+  color:blue;
+  height: 30%;
+
+  /* background-image: url("/assets/mainpage/join.jpg"); */
+ 
+
+}
+/* 
+.carouesl {
+  max-height: 10rem;
+  max-width:100%;
+  overflow: hidden;
+}
+
+.carousel-inner > .item > img {
+   margin: 0 auto;
+} */
+/* 
+.carousel .item {
+  height: 300px;
+}
+
+.item image {
+    position: absolute;
+    top: 0;
+    left: 0;
+    max-height: 300px;
+}
+
+.image{
+height:200px
+
+} */
+
+.smGlobalBtn1{ /* global button class */
+  display: inline-block;
+  position: relative;
+  cursor: pointer;
+  width: 35px;
+  height: 35px;
+  box-shadow: 0 2px 2px #999;
+  padding: 0px;
+  text-decoration: none;
+  text-align: center;
+  color: #fff;
+  font-size: 15px;
+  
+  font-weight: normal;
+  line-height: 2em;
+  border-radius: 25px;
+  -moz-border-radius:25px;
+  -webkit-border-radius:25px;
+}
+
+.smGlobalBtn{ /* global button class */
+  display: inline-block;
+  position: relative;
+  cursor: pointer;
+  width: 30px;
+  height: 30px;
+  box-shadow: 0 2px 2px #999;
+  padding: 0px;
+  text-decoration: none;
+  text-align: center;
+  color: #fff;
+  font-size: 15px;
+  font-weight: normal;
+  line-height: 2em;
+  border-radius: 25px;
+  -moz-border-radius:25px;
+  -webkit-border-radius:25px;
+}
+
+
+.HomeBtn{
+ background: #4060A5;
+  background-image: url("./mainpage/home.jpg");
+  background-size: contain;
+
+}
+
+
+.facebookBtn{
+  background: #4060A5;
+  background-image: url("./mainpage/f1.png");
+  background-size: contain;
+  /* width:100%;
+  height:100%; */
+}
+
+.facebookBtn:before{ /* use :before to add the relevant icons */
+  /* font-family: "FontAwesome"; */
+  /* content: "\f230"; add facebook icon */
+}
+
+.facebookBtn:hover{
+  width: 45px;
+  height: 45px;
+  /* color: #4060A5;
+  background: #fff; */
+  /* width:100%;
+  height:100%; */
+}
+
+/* twitter button class*/
+.twitterBtn{
+  background: #00ABE3;
+  background-image: url("./mainpage/t2.jpg");
+  background-size: contain;
+}
+
+.twitterBtn:before{
+    /* font-family: "FontAwesome";
+    content: "\f099"; add twitter icon */
+}
+
+.twitterBtn:hover{
+    /* color: #00ABE3;
+    background: #fff; */
+    width: 45px;
+    height: 45px;
+}
+
+.HomeBtn:hover{
+    /* color: #00ABE3;
+    background: #fff; */
+    width: 45px;
+    height: 45px;
+}
+
+
+
+
+/* google plus button class*/
+.googleplusBtn{
+  background: #e64522;
+  background-image: url("./mainpage/y1.png");
+  background-size: contain;
+}
+
+.googleplusBtn:before{
+    /* font-family: "FontAwesome";
+    content: "\f0d5"; add googleplus icon */
+}
+
+.googleplusBtn:hover{
+    /* color: #e64522;
+    background: #fff; */
+    width: 45px;
+    height: 45px;
+}
+
+/* linkedin button class*/
+.linkedinBtn{
+  background: #0094BC;
+}
+
+.linkedinBtn:before{
+    font-family: "FontAwesome";
+    content: "\f0e1"; /* add linkedin icon */
+}
+
+.linkedinBtn:hover{
+    color: #0094BC;
+    background: #fff;
+}
+
+/* pinterest button class*/
+.pinterestBtn{
+  background: #cb2027;
+}
+
+.pinterestBtn:before{
+    font-family: "FontAwesome";
+    content: "\f0d2"; /* add pinterest icon */
+}
+
+.pinterestBtn:hover{
+    color: #cb2027;
+    background: #fff;
+}
+
+/* tumblr button class*/
+.tumblrBtn{
+  background: #3a5876;
+}
+
+.tumblrBtn:before{
+    font-family: "FontAwesome";
+    content: "\f173"; /* add tumblr icon */
+}
+
+.tumblrBtn:hover{
+    color: #3a5876;
+    background: #fff;
+}
+
+/* rss button class*/
+.rssBtn{
+  background: #e88845;
+}
+
+.rssBtn:before{
+    font-family: "FontAwesome";
+    content: "\f09e"; /* add rss icon */
+}
+
+.rssBtn:hover{
+    color: #e88845;
+    background: #fff;
+}

@@ -1,0 +1,153 @@
+#Row_lg{
+display:flex;
+
+
+}
+#Row_lg Button{
+color:white;
+background:none;
+border-color:white;
+font-weight:bold;
+}
+#Row_sm{
+display:none;
+
+}
+#Row_sm #btn_sidebar{
+color:white;
+background:none;
+border:none;
+
+}
+
+#AC_lg{
+
+
+}
+#AC_sm{
+
+display:none;
+}
+
+@media screen and (max-width: 500px) {
+
+#AC_lg{
+display:none;
+
+}
+#AC_sm{
+display:flex;
+}
+
+
+
+}
+@media screen and (max-width: 767px) {
+   #Row_lg{
+display:none;
+}
+#Row_sm {
+display:flex;
+
+
+
+}
+
+
+#Row_sm #btn_sidebar1{
+
+color:white;
+background:none;
+border:none;
+font-size:30px;
+
+}
+
+
+
+
+
+}
+
+
+@media screen and (max-width: 450px) {
+
+#col1{
+
+display:none;
+
+}
+#offcanvas{
+width:80%;
+
+}
+
+#id_1,#id_2,#id_3,#id_4,#id_5,#id_6{
+
+font-size:15px;
+}
+
+
+}
+@media screen and (max-width: 500px) {
+
+
+#offcanvas{
+width:80%;
+
+}
+
+#id_1,#id_2,#id_3,#id_4,#id_5,#id_6{
+
+font-size:15px;
+}
+
+
+}
+
+
+#row1:hover{
+  background-color:rgb(48, 125, 128);
+
+
+}
+
+
+#row2:hover{
+  background-color:rgb(48, 125, 128);
+
+
+}
+
+#row3:hover{
+  background-color:rgb(48, 125, 128);
+  
+
+}
+
+
+#row4:hover{
+  background-color:rgb(48, 125, 128);
+
+
+}
+
+
+#row5:hover{
+  background-color:rgb(48, 125, 128);
+  
+
+}
+
+
+#row6:hover{
+  background-color:rgb(48, 125, 128);
+  
+
+}
+.offcanvas-body>.active>a{
+ background-color:rgb(48, 125, 128);
+}
+ 
+
+
